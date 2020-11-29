@@ -1,0 +1,37 @@
+/* font-family: 'Berkshire Swash', cursive;
+font-family: 'PT Mono', monospace; */
+header {
+  background-color: green;
+  /* background-image: url("https://i.imgur.com/mGaC86I.jpg"); */
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+}
+body {
+  background-color: #b6b5b2;
+}
+
+h1,
+h2 {
+  font-family: 'Berkshire Swash', cursive;
+}
+
+p,
+a {
+  font-family: 'PT Mono', monospace;
+  color: white;
+  text-decoration: none;
+}
+
+.boo,
+footer,
+button {
+  font-family: 'PT Mono', monospace;
+  color: green;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 200px;
+  height: auto;
+}
